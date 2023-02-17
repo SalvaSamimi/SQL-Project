@@ -117,8 +117,6 @@ FROM
 
 GROUP BY country_city
 ORDER BY max DESC
-
-
 ```
 
 

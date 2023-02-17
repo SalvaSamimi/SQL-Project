@@ -10,12 +10,12 @@ Following rules are considered:
 
 1- Uppercase keywords
 
-2- Aliases used for query clearity
+2- Aliases used for query clarity
 
 3- Use of indentation
 
 4- White spaces
 
-5- Add useful comments if necessary
+5- Add useful comments
 
 6- Writing small queries and combining them to generate final query

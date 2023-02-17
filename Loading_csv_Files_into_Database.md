@@ -1,6 +1,6 @@
 ## Issues Regarding csv Files Loading into Database
 
-As I tried to import csv files to database using pgAdmin4 import menu ([these instructions](https://www.postgresqltutorial.com/postgresql-tutorial/import-csv-file-into-posgresql-table/)), I got ther is some problems with file "all_sessions.csv" and data loading never completed by pgAdmin4.
+As I tried to import csv files to database using pgAdmin4 import menu ([these instructions](https://www.postgresqltutorial.com/postgresql-tutorial/import-csv-file-into-posgresql-table/)), I got there is some problems with file "all_sessions.csv" and data loading never completed by pgAdmin4.
 
 So I had to write a script to manage table creation and csv file importing. By runnig the script, I found following problems:
 
