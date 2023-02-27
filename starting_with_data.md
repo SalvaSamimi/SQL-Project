@@ -16,7 +16,7 @@ ORDER BY Year_Month
 Answer: 
 
 
-![alt text](Starting_with_data_Q1.png)
+![alt text](images/Starting_with_data_Q1.png)
 
 
 Question 2: Which 10 full_visitor_id do have the largest purchase amount on the site?
@@ -35,7 +35,7 @@ ORDER BY Total_Purchase DESC NULLS LAST
 
 Answer:
 
-![alt text](Starting_with_data_Q2.png)
+![alt text](images/Starting_with_data_Q2.png)
 
 
 Question 3: How much is maximum, minimum, average, and satndard deviation of spend time on the site?
@@ -53,7 +53,7 @@ FROM analytics
 
 
 Answer:
-![alt text](Starting_with_data_Q3.png)
+![alt text](images/Starting_with_data_Q3.png)
 
 
 Question 4: Create a list of products that have had never any order?
@@ -79,6 +79,6 @@ ON (p.product_sku=t.product_sku)
 
 Answer:
 
-![alt text](Starting_with_data_Q4.png)
+![alt text](images/Starting_with_data_Q4.png)
 
 

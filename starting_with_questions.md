@@ -21,7 +21,7 @@ ORDER BY SUM DESC NULLS LAST
 
 Answer: The first row of the results is inclued all USA cities with hidden name and maybe more than one city. So it is not reliable. 
 
-![alt text](starting_with_questions_Q1.png)
+![alt text](images/starting_with_questions_Q1.png)
 
 
 
@@ -45,7 +45,7 @@ ORDER BY AVG DESC NULLS LAST
 
 Answer: The first row of the results is inclued all USA cities with hidden name and maybe more than one city. So it is not reliable. 
 
-![alt text](starting_with_questions_Q2.png)
+![alt text](images/starting_with_questions_Q2.png)
 
 
 
@@ -68,7 +68,7 @@ ORDER BY COUNT DESC
 
 Answer: Many of rows of the table inclued all cities with hidden name and maybe more than one city. So it is not reliable. 
 
-![alt text](starting_with_questions_Q3.png)
+![alt text](images/starting_with_questions_Q3.png)
 
 
 
@@ -122,7 +122,7 @@ ORDER BY max DESC
 
 Answer: Many of rows of the table inclued all cities with hidden name and maybe more than one city. So it is not reliable. 
 
-![alt text](starting_with_questions_Q4.png)
+![alt text](images/starting_with_questions_Q4.png)
 
 
 
@@ -149,11 +149,11 @@ ORDER BY SUM_T DESC NULLS LAST
 
 Answer: I was looking for a relationship between total_transaction_revenue, time_on_site, and page_views. So I normalized values and draw all together. But it seems there is no valiable relationship between them.
 
-![alt text](starting_with_questions_Q5.png)
+![alt text](images/starting_with_questions_Q5.png)
 
 Graph:
 
-![alt text](starting_with_questions_Q5_Graph.png)
+![alt text](images/starting_with_questions_Q5_Graph.png)
 
 
 

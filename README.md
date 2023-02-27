@@ -4,6 +4,7 @@
 The goal of this project is retrieving a set of csv files and cleaning them.
 
 ## Process
+
 ### step 1-Before everything, we should do a proper data understanding. But, unfortunately, there is no comprehensive description of this data set. Therefore I did not get a perfect insight into the data set.
 
 ### Step 2-Data importing to PostgreSQL. Loading_csv_Files_into_Database.md is added for more description 

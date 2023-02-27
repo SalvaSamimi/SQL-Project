@@ -1,0 +1,6 @@
+Original and cleaned data are stores in 2 different folders:
+
+   <main>/Data-Original
+   <main>/Data-Cleaned
+   
+Other data and databases are stored in <main>/data

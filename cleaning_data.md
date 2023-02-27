@@ -17,7 +17,7 @@ SELECT
 FROM sales_reportv
 ```
 v
-![alt text](Compare1&2.png)
+![alt text](images/Compare1&2.png)
 
 
 
